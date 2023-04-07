@@ -8,15 +8,15 @@ Through this dataset, we want to gain insights into the performance of different
 <br>
 ## Case Study Questions
 <br>
-<li>
-1. Which countries have won the most medals over the years?
-2. What is the distribution of medals by sport?
-3. Which sports have the highest number of participating countries?
-4. Has there been an increase or decrease in the number of participating countries over the years?
-5. What is the medal distribution by gender?
-6. Which athletes have won the most medals in a single Olympic games?
-7. What is the distribution of gold, silver, and bronze medals over the years?
-8. Which countries have consistently performed well in the Olympics?
-9. What is the trend in the medal count of a particular country over the years?
-10. What is the average age of medal-winning athletes in different sports?
-</li>
+<ol> 
+  <li>1. Which countries have won the most medals over the years?</li>
+  <li>2. What is the distribution of medals by sport?</li>
+  <li>3. Which sports have the highest number of participating countries?</li>
+<li>4. Has there been an increase or decrease in the number of participating countries over the years?</li>
+<li>5. What is the medal distribution by gender?</li>
+  <li>6. Which athletes have won the most medals in a single Olympic games?</li>
+  <li>7. What is the distribution of gold, silver, and bronze medals over the years?</li>
+  <li>8. Which countries have consistently performed well in the Olympics?</li>
+  <li>9. What is the trend in the medal count of a particular country over the years?</li>
+  <li>10. What is the average age of medal-winning athletes in different sports?</li>
+</ol>
