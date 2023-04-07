@@ -8,7 +8,7 @@ Through this dataset, we want to gain insights into the performance of different
 <br>
 ## Case Study Questions
 <br>
-<ol> 
+<ul> 
   <li>1. Which countries have won the most medals over the years?</li>
   <li>2. What is the distribution of medals by sport?</li>
   <li>3. Which sports have the highest number of participating countries?</li>
@@ -19,4 +19,4 @@ Through this dataset, we want to gain insights into the performance of different
   <li>8. Which countries have consistently performed well in the Olympics?</li>
   <li>9. What is the trend in the medal count of a particular country over the years?</li>
   <li>10. What is the average age of medal-winning athletes in different sports?</li>
-</ol>
+</ul>
